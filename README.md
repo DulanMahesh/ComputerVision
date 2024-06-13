@@ -1,0 +1,1 @@
+Managing images through OpenCv
